@@ -1,0 +1,122 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+  }
+
+  header {
+      background: #333;
+      padding: 5px;
+  }
+
+  h1 {
+      color: #eee;
+      margin-bottom: 20px;
+      font-size: 28px;
+      text-align: center;
+      padding: 10px 0;
+  }
+
+  h2 {
+      font-size: 24px;
+  }
+
+  a {
+      color: darkgreen;
+  }
+
+  .container {
+      width: 1024px;
+      margin: 0 auto;
+  }
+
+  #main-bio, #contact-info, #bio-image {
+      float: left;
+  }
+
+  #figure {
+      position: relative;
+  }
+
+  #bio-name {
+      padding: 10px;
+      margin-left: 10px;
+  }
+
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 26%;
+    padding: 2%;
+}
+
+#bio-image {
+    margin: 10px;
+    width: 200px;
+}
+
+table {
+    border-collapse: collapse;
+    border-width: 0 0 0 1px;
+    overflow: visible;
+    padding: 1px 2px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+thead {
+    background-color: #e0e0e0;
+    color: #000;
+    text-align: left;
+    vertical-align: bottom;
+  }
+
+  td, th {
+    border-left: 1px solid #cbcbcb;
+    /*  inner column border */
+    margin: 0;
+    overflow: visible;
+    /*to make ths where the title is really long work*/
+    padding: 0.5em 1em;
+    /* cell padding */
+    border-width: 0 0 1px 0;
+    border-bottom: 1px solid #cbcbcb;
+  }
+
+  td {
+    background-color: #f2f2f2;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
